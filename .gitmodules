@@ -1,0 +1,4 @@
+[submodule "nlp-engine"]
+	path = nlp-engine
+	url = https://github.com/sarthak-diwan/nlp-engine
+	branch = master

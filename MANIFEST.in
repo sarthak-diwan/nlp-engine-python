@@ -1,0 +1,4 @@
+include nlp-engine/*
+include nlp-engine/include/Api/*
+include pynlp/*
+include nlp-engine/python-c-binding/*
